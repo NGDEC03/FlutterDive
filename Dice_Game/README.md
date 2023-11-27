@@ -1,16 +1,13 @@
-# dice_game
+# Dice_Game
 
-A new Flutter project.
+A Simple Dice Rolling Game.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for my FlutterDev Journey.
 
-A few resources to get you started if this is your first Flutter project:
+# Concept And Components Used:
+It is simply press the button and get the dice rolled with a random number almost everytime.
+Simple Widget Tree is used i.e MaterialApp->Material->Image->Button.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+That's All From My Side Let the knowledge flutter.
